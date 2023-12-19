@@ -1,4 +1,4 @@
-# Portfolio Optimization with Deep Reinforcement Learning, and its comaprison with Traditional Methods
+# Portfolio Optimization with Deep Reinforcement Learning, and its comaprison with Traditional Techniques
 
 ## Overview
 
