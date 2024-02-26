@@ -1,4 +1,4 @@
-# Introducting Market Maestro: Your Personal DRL Portfolio Assistant
+# Introducing Maestro Optimus: Your Personal DRL Portfolio Manager
 
 ## Overview
 
