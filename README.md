@@ -1,4 +1,4 @@
-# Portfolio Optimization with Deep Reinforcement Learning, and its comaprison with Traditional Techniques
+# Introducting Market Maestro: Your Personal DRL Portfolio Assistant
 
 ## Overview
 
